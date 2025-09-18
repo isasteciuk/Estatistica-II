@@ -49,6 +49,7 @@ body {
 
 
 :root {
+    --text-align: center;
     --cor-principal: #302922 ;
     --cor-secundaria: #2b1c27;
     --cor-destaque: #ffffff;
@@ -58,10 +59,14 @@ body {
 
 
   .caixa-principal{
+    box-sizing: center;
     background-color: var(--cor-principal);
+    width: center;
     width: 100%;
+    max-width: center;
     max-width: 1280px;
     text-align: center;
+    padding: center;
     padding: 100px;
   }
 
