@@ -20,14 +20,14 @@ const caixaResultado = document.querySelector(".caixa-resultado");
 const textoResultado = document.querySelector(".texto-resultado");
 const perguntas = [
     {
-        enunciado: "Teste 1",
+        enunciado: "          Este projeto apresenta os resultados de um experimento conduzido com delineamento em Quadrado Latino (DQL). O objetivo foi avaliar diferentes tratamentos controlando duas fontes de variação, garantindo maior precisão nos resultados.",
         alternativas: [
             {
                 texto: "Começar ♡︎",
                 afirmacao: "",
             }
         ],
-        imagem: ""
+        imagem: "https://i.pinimg.com/736x/1f/f9/7d/1ff97d22dc19910d648edc520640a646.jpg"
     },
     {
         enunciado: "exemplo 1 --",
